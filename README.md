@@ -17,3 +17,8 @@ To run this bot, you need the following Python libraries:
 Install the dependencies with:
 
 pip install -r requirements.txt
+
+## Credits 
+
+**Discord**
+  [wriyansh](https://discord.com/users/333703596803883018)
