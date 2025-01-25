@@ -18,6 +18,39 @@ Install the dependencies with:
 
 pip install -r requirements.txt
 
+## Setup
+
+1. Clone the repository or download the script.
+
+
+2. Replace the placeholder YOUR_TOKEN_HERE with your own Discord selfbot token.
+
+
+3. Install the required dependencies:
+
+
+
+```pip install -r requirements.txt```
+
+4. Run the bot using the following command:
+
+```python bot.py```
+
+## Usage
+
+Once the bot is running:
+
+You will be prompted to choose between clearing all DMs or selecting a specific DM.
+
+For each option, you will be asked if you want to set a custom delay between message deletions.
+
+If you choose all DMs, the bot will iterate through all DMs and delete messages from each user or group DM, based on your confirmation.
+
+If you choose a specific DM, you can select the DM you wish to purge by choosing its number from the list of DMs.
+
+
+The bot will print logs of its actions in the terminal, showing which messages were deleted and any errors that occurred.
+
 ## Credits 
 
 **Discord**
